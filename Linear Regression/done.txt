@@ -1,0 +1,7 @@
+Linear Regression
+
+1. What is AI and what is ML?
+2. Intuition of ML
+3. Basic starting point: LINEAR REGRESSION
+4. Conditions for Linear Regression
+5. Mathematical Formulation
